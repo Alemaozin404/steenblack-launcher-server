@@ -1,0 +1,13 @@
+{
+  "appName": "SteenBlack Launcher",
+  "version": "7.2.2",
+  "channel": "online-stable",
+  "mainLauncher": "SteenBlackLauncher.bat",
+  "fileName": "SteenBlackLauncher.exe",
+  "downloadUrl": "SteenBlackLauncher.exe",
+  "sha256": "TROQUE_PELO_SHA256_DO_EXE_REAL",
+  "releaseNotes": [
+    "Coloque o arquivo real SteenBlackLauncher.exe na pasta releases.",
+    "Depois atualize o sha256 no latest.json."
+  ]
+}
